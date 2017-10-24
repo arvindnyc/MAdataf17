@@ -1,0 +1,49 @@
+Country, Code, Number
+Algeria, R, 0.1
+Morocco, R, 5.0
+Alaska, R, 34.0
+Canada, R, "2, 450.0"
+Cuba, R, 275.0
+Dominican Republic, R, 7.0
+El Salvador, R, 1.0
+Guatemala, R, 8.5
+Mexico, R, 250.0
+Panama, R, 2.0
+Puerto Rico, R, 126.0
+United States, R, "42, 000.0"
+Argentina, R, 75.0
+Brazil, R, 200.0
+Colombia, R, 50.0
+Uruguay, R, 1.0
+Venezuela, R, 100.0
+Iraq, R, 0.6
+Japan, L, 328.0
+Philippines, R, 10.0
+Thailand, R, 7.0
+Turkey, R, 0.1
+Austria, L, 6.0
+Belgium, R, 150.0
+Bulgaria, R, 0.5
+Czechoslovakia, R, 60.0
+Denmark, L, 44.0
+Finland, L, 2.5
+France, L, 442.0
+East Germany, R, 70.0
+West Germany, L, 703.5
+Hungary, L, 0.6
+Ireland, R, 4.0
+Italy, L, 367.0
+Luxembourg, R, 1.0
+Monaco, R, 2.0
+Netherlands, L, 99.0
+Norway, R, 0.3
+Poland, R, 5.0
+Portugal, R, 0.3
+Romania, R, 0.5
+Spain, R, 3.0
+Sweden, L, 13.0
+Switzerland, L, 20.0
+United Kingdom, L, "6, 570.0"
+Yugoslavia, R, 4.0
+Australia , R, 27.0
+USSR, R, "1, 324.0"
